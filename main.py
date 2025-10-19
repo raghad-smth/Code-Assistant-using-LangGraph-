@@ -115,7 +115,7 @@ graph.set_entry_point("classify")
 # --- Compile the graph ---
 app_graph = graph.compile()
 
-# --- Streamlit input ---
+# --- Stream    lit input ---
 user_input = st.text_area("Enter your command or code:", height=150, key="input_area")
 
 if st.button("Run"):

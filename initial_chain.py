@@ -54,14 +54,14 @@ def classify_intent(state):
     return {"intent": parsed["intent"], "raw": raw}
 
 
-# --- Test the function ---
-if __name__ == "__main__":
-    test_inputs = [
-        "Write a Python function that reverses a string",
-        "Explain what this code does: for i in range(5): print(i)"
-    ]
+# # --- Test the function ---
+# if __name__ == "__main__":
+#     test_inputs = [
+#         "Write a Python function that reverses a string",
+#         "Explain what this code does: for i in range(5): print(i)"
+#     ]
 
-    for inp in test_inputs:
-        print(f"\nUser input: {inp}")
-        result = classify_intent(inp)
-        print("Result:", json.dumps(result, indent=2))
+#     for inp in test_inputs:
+#         print(f"\nUser input: {inp}")
+#         result = classify_intent(inp)
+#         print("Result:", json.dumps(result, indent=2))
