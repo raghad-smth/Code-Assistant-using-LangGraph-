@@ -166,7 +166,3 @@ streamlit run main.py
 ```
 
 Open the URL shown by Streamlit (usually `http://localhost:8501`).
-
-## Copy-ready: full `README.md` content
-
-> **Tip:** Copy everything from the top of this file into your repository’s `README.md`. If you'd like, I can also format a shorter "Quickstart" README or a more formal README for CV/recruiters — tell me which tone you want and I'll produce it instantly.
