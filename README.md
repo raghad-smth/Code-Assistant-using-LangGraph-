@@ -15,11 +15,6 @@ Designed to be modular, easy to run locally (Streamlit), and easy to extend.
 * [How it works (architecture)](#how-it-works-architecture)
 * [Files & responsibilities](#files--responsibilities)
 * [Running locally](#running-locally)
-* [Examples](#examples)
-* [Troubleshooting](#troubleshooting)
-* [Future improvements](#future-improvements)
-* [Author](#author)
-
 ---
 
 # What it does
